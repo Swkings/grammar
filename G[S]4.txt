@@ -1,0 +1,8 @@
+S->aSb
+S->P
+P->bT
+T->Pc
+T->Qc
+Q->aB
+B->aB
+B->%

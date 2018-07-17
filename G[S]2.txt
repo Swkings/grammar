@@ -1,0 +1,6 @@
+S->aSb
+S->P
+P->bPc
+P->bQc
+Q->Qa
+Q->a
